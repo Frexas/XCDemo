@@ -1,0 +1,11 @@
+framework module wl_poc_osx {
+  umbrella header "wl_poc_osx.h"
+
+  export *
+  module * { export * }
+}
+
+module wl_poc_osx.Swift {
+    header "wl_poc_osx-Swift.h"
+    requires objc
+}
