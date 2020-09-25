@@ -7,7 +7,9 @@ Pod::Spec.new do |s|
     s.license      = { :type => "MIT", :file => "LICENSE" }
     s.author       = { 'Frexas' => 'frexas@frexas.com' }
     s.source       = { :git => 'https://github.com/Frexas/XCDemo.git', :tag => s.version.to_s }
+    s.swift_version = '5.2'
     s.osx.deployment_target = '10.14'
-    s.ios.deployment_target = '11.0'
-    s.vendored_frameworks = "XCDemo/wl_poc.framework"
+    # s.ios.deployment_target = '11.0'
+    s.vendored_frameworks = "XCDemo/wl_poc_osx.framework"
+    s.dependency 'Alamofire'
   end

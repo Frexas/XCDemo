@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/wl_poc-Swift.h</key>
 		<data>
-		kkd5pdPEZfZs9vOqwkpWrHcwvdQ=
+		3rsWuwmCyw/oJsO+W7tv1UO4+zE=
 		</data>
 		<key>Headers/wl_poc.h</key>
 		<data>
@@ -14,35 +14,59 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		k/yNppUy/yvjzyRtNGWwnd4iJIg=
+		GGwp3noWTrijCTcNI+2anmpRc9k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		Mi7mj2erGp9DwcExXkn0cBlMqcQ=
 		</data>
-		<key>Modules/wl_poc.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/wl_poc.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		vIxc5K3QMeJTRu1nD+FNOSTQzUM=
+		2n29rA7vPyy8IkI7soYzNxEz/gE=
 		</data>
-		<key>Modules/wl_poc.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<key>Modules/wl_poc.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		5LFGK6df7i40DryQ6Fz69blt2n8=
+		g7ajTw/jymB69JmX77FG5HpbnIU=
 		</data>
-		<key>Modules/wl_poc.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/wl_poc.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		e5iNgkGlQmIz4m+PPdD9j+jVBc4=
+		OEvoUnheVIc+NbMQ+7ffDTEFHY4=
 		</data>
 		<key>Modules/wl_poc.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		vIxc5K3QMeJTRu1nD+FNOSTQzUM=
+		2n29rA7vPyy8IkI7soYzNxEz/gE=
 		</data>
 		<key>Modules/wl_poc.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		5LFGK6df7i40DryQ6Fz69blt2n8=
+		g7ajTw/jymB69JmX77FG5HpbnIU=
 		</data>
 		<key>Modules/wl_poc.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		e5iNgkGlQmIz4m+PPdD9j+jVBc4=
+		OEvoUnheVIc+NbMQ+7ffDTEFHY4=
+		</data>
+		<key>Modules/wl_poc.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		qDuWX71eAU7XIwSnHf32IdZFNZM=
+		</data>
+		<key>Modules/wl_poc.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		DYwBj9uMVU/HhEXqBO3zlkvxtw8=
+		</data>
+		<key>Modules/wl_poc.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		g8YKV+9zUzwLr47vhCr/C9gW+wk=
+		</data>
+		<key>Modules/wl_poc.swiftmodule/x86_64.swiftdoc</key>
+		<data>
+		qDuWX71eAU7XIwSnHf32IdZFNZM=
+		</data>
+		<key>Modules/wl_poc.swiftmodule/x86_64.swiftinterface</key>
+		<data>
+		DYwBj9uMVU/HhEXqBO3zlkvxtw8=
+		</data>
+		<key>Modules/wl_poc.swiftmodule/x86_64.swiftmodule</key>
+		<data>
+		g8YKV+9zUzwLr47vhCr/C9gW+wk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -51,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kj7yyNBhB1sdl4zE2AGPwKOw8DRH0BnTdrN4X4FvjSE=
+			oUm8PGLLY5iaPeJCA+Kl5T3dVQ3MViZtLFjY0ODyNj0=
 			</data>
 		</dict>
 		<key>Headers/wl_poc.h</key>
@@ -68,46 +92,88 @@
 			63ABKHbilkLa78tn/1ZbwTmA5BuXmzMGXWuuoXxgQcI=
 			</data>
 		</dict>
-		<key>Modules/wl_poc.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/wl_poc.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0LNmCSAflpeZhAAJ9/N6uGBZUkcobR0gY3KWwiFvAKE=
+			klfmm8ayw0kdRWwAXywtwbfOqn99m/xyatE/plnuHIc=
 			</data>
 		</dict>
-		<key>Modules/wl_poc.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<key>Modules/wl_poc.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z6pgUN/qfopF+ASJUaIwisuwOjWJmCrWdIFbk1klQbk=
+			VFYKXF0skT9j+eIVsdBWLTglhyUoVyFzWw1Q3Y5G6Uc=
 			</data>
 		</dict>
-		<key>Modules/wl_poc.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/wl_poc.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FPyCuBIkjmu7KA6ktMVgS8Ng/6YP/kVqVGA9lDio8b0=
+			+OSSWVLAPkKFqqRr6xs/EwcGEIHdb+UzR9nr0HgxXNE=
 			</data>
 		</dict>
 		<key>Modules/wl_poc.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0LNmCSAflpeZhAAJ9/N6uGBZUkcobR0gY3KWwiFvAKE=
+			klfmm8ayw0kdRWwAXywtwbfOqn99m/xyatE/plnuHIc=
 			</data>
 		</dict>
 		<key>Modules/wl_poc.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z6pgUN/qfopF+ASJUaIwisuwOjWJmCrWdIFbk1klQbk=
+			VFYKXF0skT9j+eIVsdBWLTglhyUoVyFzWw1Q3Y5G6Uc=
 			</data>
 		</dict>
 		<key>Modules/wl_poc.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FPyCuBIkjmu7KA6ktMVgS8Ng/6YP/kVqVGA9lDio8b0=
+			+OSSWVLAPkKFqqRr6xs/EwcGEIHdb+UzR9nr0HgxXNE=
+			</data>
+		</dict>
+		<key>Modules/wl_poc.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0JYnRuH9hss6G3RC2LYKQB+ufb6GqiSBhmMcD8H0jAc=
+			</data>
+		</dict>
+		<key>Modules/wl_poc.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iCtKh4ckt5g8tbFWPcGQke3/AzxwbGEJJPrd03KAMAw=
+			</data>
+		</dict>
+		<key>Modules/wl_poc.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cbBreirqgahgkjvzQkTfxfWZBbqSzht9g2kWnlLUH3M=
+			</data>
+		</dict>
+		<key>Modules/wl_poc.swiftmodule/x86_64.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0JYnRuH9hss6G3RC2LYKQB+ufb6GqiSBhmMcD8H0jAc=
+			</data>
+		</dict>
+		<key>Modules/wl_poc.swiftmodule/x86_64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iCtKh4ckt5g8tbFWPcGQke3/AzxwbGEJJPrd03KAMAw=
+			</data>
+		</dict>
+		<key>Modules/wl_poc.swiftmodule/x86_64.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cbBreirqgahgkjvzQkTfxfWZBbqSzht9g2kWnlLUH3M=
 			</data>
 		</dict>
 	</dict>
