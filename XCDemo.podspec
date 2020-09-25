@@ -10,6 +10,6 @@ Pod::Spec.new do |s|
     s.swift_version = '5.2'
     s.osx.deployment_target = '10.14'
     # s.ios.deployment_target = '11.0'
-    s.vendored_frameworks = "XCDemo/wl_poc_osx.framework"
+    s.vendored_frameworks = 'Resources/wl_poc_osx.framework'
     s.dependency 'Alamofire'
   end
